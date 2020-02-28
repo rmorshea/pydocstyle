@@ -72,6 +72,7 @@ class ConventionChecker:
         'Methods',
         'Note',
         'Notes',
+        'Parameters',
         'Return',
         'Returns',
         'Raises',
